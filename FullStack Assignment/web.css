@@ -1,0 +1,58 @@
+body{
+    background-color:blanchedalmond;
+}
+.main{
+    padding-top: 40px;
+    text-align: center;
+    font-size:30px;
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+nav ul{
+    float:right;
+    line-height: 75px;
+    display: flex;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    align-items: center;
+}
+nav ul li{
+    align-items: center;
+    display: inline-block;
+    list-style: none;
+    padding: 0px 15px 20px;
+
+}
+nav ul li a{
+    
+    padding: 0px 25px;
+    color: brown;
+    font-size: 18px;
+    text-decoration: none;
+}
+.content{
+    justify-content: right;
+    margin-left: 50px;
+    padding:0px 30px 10px 20px;
+}
+.normal{
+    text-indent: 15px;
+    justify-content: right;
+    margin-left: 50px;
+}
+.hira{ 
+    padding:0px 30px 10px 20px;
+    justify-content: right;
+   
+}
+.kata{
+    padding:0px 30px 10px 20px;
+    justify-content: right;
+   
+}
+.kanji{
+    padding:0px 30px 10px 20px;
+    justify-content: right;
+}

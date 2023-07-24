@@ -1,0 +1,24 @@
+body{
+    background-color:mistyrose;
+    text-align: center;
+}
+ table tr{
+    border: 1px black;
+}
+.tables {
+    padding:10px;
+    border-top: 30px;
+    border-left:10px;
+    width:700px;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;  
+    text-align: left;
+    
+}
+.buttons{ 
+   color: lightskyblue;
+    border-radius: 12px;
+  
+}
